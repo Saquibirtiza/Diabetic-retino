@@ -10,7 +10,7 @@ Members:
 Md. Abrar Labib - 144423
 Saquib Irtiza - 144431
 
-This paper summarizes the dierent imaging techniques and methodologies used to perform classication of the dierent stages of a disease called diabetic retinopathy.
+This paper summarizes the different imaging techniques and methodologies used to perform classication of the different stages of a disease called diabetic retinopathy.
 In particular, it focuses on deep learning techniques to perform such detection in the fundus images of the patient's eye. Diabetic retinopathy is a progressive disease that
 causes the patient to lose eyesight if not diagnosed and treated at an early stage. Ophthalmologists usually diagnose the patient of this disease by screening the retinal
 fundus images to look for lesions. But the inaccuracy of such diagnosis together with the delay between diagnosis and treatment motivated researchers to automate this

@@ -1,0 +1,52 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {1.1}General Overview}{3}
+\contentsline {section}{\numberline {1.2}Motivation}{4}
+\contentsline {section}{\numberline {1.3}Purpose of this report}{4}
+\contentsline {chapter}{\numberline {2}Diabetic Retinopathy}{5}
+\contentsline {section}{\numberline {2.1}Stages of Diabetic Retinopathy}{5}
+\contentsline {section}{\numberline {2.2}Image Dataset Available}{6}
+\contentsline {chapter}{\numberline {3}Literature Review}{7}
+\contentsline {section}{\numberline {3.1}Non Deep-Learning Methods}{7}
+\contentsline {subsection}{\numberline {3.1.1}Exudate Segmentation}{8}
+\contentsline {subsubsection}{■ Region Growing Method}{8}
+\contentsline {subsubsection}{o Automated detection of diabetic retinopathy on digital fundus images (2008) \cite {sinthanayothin2002automated}. }{8}
+\contentsline {subsubsection}{■ Thresholding Method}{9}
+\contentsline {subsubsection}{o Detection of exudates in retinal images using a pure splitting technique (2010) \cite {jaafar2010detection}. }{9}
+\contentsline {subsubsection}{o A novel automatic image processing algorithm for detection of hard exudates based on retinal image analysis (2008) \cite {sanchez2008novel}. }{9}
+\contentsline {subsubsection}{■ Mathematical Morpholopy Methods}{10}
+\contentsline {subsubsection}{o Exudate detection in color retinal images for mass screening of diabetic retinopathy (2014). \cite {zhang2014exudate}}{10}
+\contentsline {subsubsection}{o Automatic detection of diabetic retinopathy exudates from non-dilated retinal images using mathematical morphology methods (2008). \cite {sopharak2008automatic}}{10}
+\contentsline {subsubsection}{■ Classification Method}{11}
+\contentsline {subsubsection}{o A computational-intelligence-based approach for detection of exudates in diabetic retinopathy images (2009). \cite {osareh2009computational}}{11}
+\contentsline {subsubsection}{o Neural network based detection of hard exudates in retinal images (2009). \cite {garcia2009neural}}{12}
+\contentsline {subsubsection}{o Automated detection of exudates for diabetic retinopathy screening (2007). \cite {fleming2007automated}}{12}
+\contentsline {subsubsection}{o Automated Detection and Differentiation of Drusen, Exudates, and Cotton-Wool Spots in Digital Color Fundus Photographs for Diabetic Retinopathy Diagnosis (2007). \cite {niemeijer2007automated}}{13}
+\contentsline {subsection}{\numberline {3.1.2}Red Lesion Segmentation}{13}
+\contentsline {subsubsection}{■ Region Growing Methods}{14}
+\contentsline {subsubsection}{o Automated microaneurysm detection using local contrast normalization and local vessel detection (2006). \cite {fleming2006automated}}{14}
+\contentsline {subsubsection}{■ Mathematical Morphology Methods}{14}
+\contentsline {subsubsection}{o Automated microaneurysm detection method based on eigenvalue analysis using hessian matrix in retinal fundus images (2013). \cite {inoue2013automated}}{14}
+\contentsline {subsubsection}{o Automated detection of red lesions from digital colour fundus photographs (2011). \cite {jaafar2011automated}}{15}
+\contentsline {subsubsection}{o Detection of microaneurysms using multi-scale correlation coefficients (2010). \cite {zhang2010detection}}{15}
+\contentsline {subsubsection}{o Automatic detection of microaneurysms in color fundus images (2007). \cite {walter2007automatic}}{16}
+\contentsline {subsubsection}{■ Wavelet-Based Method}{16}
+\contentsline {subsubsection}{o Optimal wavelet transform for the detection of microaneurysms in retina photographs (2008). \cite {quellec2008optimal}}{16}
+\contentsline {subsubsection}{■ Hybrid Methods}{17}
+\contentsline {subsubsection}{o Retinal Microaneurysm Detection Through Local Rotating Cross-Section Profile Analysis (2013). \cite {lazar2013retinal}}{17}
+\contentsline {subsubsection}{o Assessment of four neural network based classifiers to automatically detect red lesions in retinal images (2010). \cite {garcia2010assessment}}{17}
+\contentsline {subsubsection}{o Mixture model-based clustering and logistic regression for automatic detection of microaneurysms in retinal images (2009). \cite {sanchez2009mixture}}{18}
+\contentsline {subsubsection}{o Automated microaneurysm detection method based on double-ring filter and feature analysis in retinal fundus images (2009). \cite {mizutani2009automated}}{18}
+\contentsline {subsubsection}{o Automatic detection of red lesions in digital color fundus photographs (2005). \cite {niemeijer2005automatic}}{19}
+\contentsline {section}{\numberline {3.2}Deep Learning Methods}{19}
+\contentsline {subsection}{\numberline {3.2.1}Convolutional Neural Network}{20}
+\contentsline {subsubsection}{■ Segmentation Using CNN}{20}
+\contentsline {subsubsection}{o Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs (2016). \cite {gulshan2016development}}{20}
+\contentsline {subsubsection}{o Improved Automated Detection of Diabetic Retinopathy on a Publicly Available Dataset Through Integration of Deep Learning (2016). \cite {abramoff2016improved}}{21}
+\contentsline {subsubsection}{o Fast convolutional neural network training using selective data sampling: Application to hemorrhage detection in color fundus images (2016). \cite {van2016fast}}{22}
+\contentsline {subsubsection}{o Convolutional Neural Networks for Diabetic Retinopathy (2016). \cite {pratt2016convolutional}}{22}
+\contentsline {subsubsection}{o Improved Microaneurysm Detection using Deep Neural Networks (2016). \cite {haloi2015improved}}{23}
+\contentsline {subsubsection}{o Automated Identification of Diabetic Retinopathy Using Deep Learning (2017). \cite {gargeya2017automated}}{24}
+\contentsline {chapter}{\numberline {4}Implementation and Future Work}{25}
+\contentsline {section}{\numberline {4.1}Implementation}{25}
+\contentsline {section}{\numberline {4.2}Future Works}{25}
+\contentsline {chapter}{\numberline {5}Conclusion}{27}

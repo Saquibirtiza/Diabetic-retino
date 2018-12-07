@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {1.1}General Overview}{3}
+\contentsline {section}{\numberline {1.2}Motivation}{4}
+\contentsline {section}{\numberline {1.3}Purpose of this report}{4}
+\contentsline {chapter}{\numberline {2}Diabetic Retinopathy}{5}
+\contentsline {section}{\numberline {2.1}Stages of Diabetic Retinopathy}{5}
+\contentsline {section}{\numberline {2.2}Image Dataset Available}{6}
+\contentsline {chapter}{\numberline {3}Review of Technical Literature}{7}
+\contentsline {section}{\numberline {3.1}EXUDATE SEGMENTAION}{7}
+\contentsline {subsection}{\numberline {3.1.1}REGION GROWING METHOD}{8}
+\contentsline {subsubsection}{o Automated detection of diabetic retinopathy on digital fundus images (2008).}{8}
+\contentsline {subsection}{\numberline {3.1.2}THRESHOLDING METHOD}{8}
+\contentsline {subsubsection}{o Detection of exudates in retinal images using a pure splitting technique (2010).}{8}
+\contentsline {subsubsection}{o Automated detection of diabetic retinopathy on digital fundus images (2009).}{9}
+\contentsline {subsection}{\numberline {3.1.3}MATHEMATICAL MORPHOLOGY METHODS}{10}
+\contentsline {subsection}{\numberline {3.1.4}CLASSIFICATION METHODS}{10}
+\contentsline {subsubsection}{o Automated detection of diabetic retinopathy on digital fundus images (2009).}{10}
+\contentsline {subsubsection}{o Neural network based detection of hard exudates in retinal images (2009).}{10}
+\contentsline {subsubsection}{o Automated detection of exudates for diabetic retinopathy screening (2007).}{11}
+\contentsline {subsubsection}{o Automated Detection and Differentiation of Drusen, Exudates, and Cotton-Wool Spots in Digital Color Fundus Photographs for Diabetic Retinopathy Diagnosis (2007).}{11}
+\contentsline {section}{\numberline {3.2}RED LESION SEGMENTATION}{12}
+\contentsline {chapter}{\numberline {4}Conclusion}{13}
+\contentsline {section}{\numberline {4.1}Proposal}{13}

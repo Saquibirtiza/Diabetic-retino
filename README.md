@@ -7,7 +7,7 @@ A.B.M. Ashikur Rahman
 Lecturer, Islamic University of Technology (IUT)
 
 Members:
-Md. Abrar Labib - 144423
+Md. Abrar Labib - 144423,
 Saquib Irtiza - 144431
 
 This paper summarizes the different imaging techniques and methodologies used to perform classication of the different stages of a disease called diabetic retinopathy.
